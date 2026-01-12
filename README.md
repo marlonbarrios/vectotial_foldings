@@ -2,8 +2,6 @@
 # Vectorial Foldings: Poetics, Latent Space, and Choreographic Intelligence
  by Marlon Barrios Solano
 
-# Vectorial Linearity and the Improvising Mind: Large Language Models, Poetics, and Choreographic Thinking
-
 ## Introduction
 
 Modern large language models (LLMs) generate text by traversing a high-dimensional latent space of language in a sequential, stepwise fashion. Each new word or line produced by an LLM can be seen as a step along a vector in this latent space ￼ ￼. This process bears a striking conceptual resemblance to human creativity and improvisation. Poet William Carlos Williams famously asserted that “unless there is a new mind there cannot be a new line” ￼, highlighting how a shift in mindset is required to produce truly original language. Similarly, choreographer William Forsythe’s experimental dance techniques treat the body as a thinking tool that can generate novel movement through algorithmic improvisation ￼ ￼. In both poetic creation and choreographic improvisation, as in LLM-driven text generation, we find a common theme: a linear sequence of actions or words emerging from a space of possibilities, guided by both constraints and creativity. This essay explores the connections between the vectorial organization of language in LLMs, the improvisational nature of human thought (“the mind is flat” thesis), and the choreographic thinking exemplified by Forsythe’s work. Through this interdisciplinary lens, we examine how sequential vectorial linearity in a space of potential outcomes underpins reasoning, creativity, and the emergence of new “lines” of thought.
