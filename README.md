@@ -2,8 +2,7 @@
 
 # Vectorial Foldings: Poetics, Latent Space, and Choreographic Intelligence
  by Marlon Barrios Solano
-# Vectorial Linearity and the Improvising Mind  
-## Large Language Models, Poetics, and Choreographic Thinking
+
 
 ## Introduction
 
